@@ -1,0 +1,13 @@
+# Pinned light theme. The Plotly figures are drawn on a validated light chart
+# surface (#fcfcfb); leaving the app on the system theme puts white charts on a
+# dark page, so the app chrome is pinned to agree with them.
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f4f1"
+textColor = "#0b0b0b"
+font = "sans serif"
+
+[server]
+headless = true
