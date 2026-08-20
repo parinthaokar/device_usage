@@ -24,7 +24,15 @@ The app extracts `user_behavior_dataset.csv` from `archive.zip` into `data/` on 
 
 ## Screenshots
 
-<!-- Paste app screenshots below -->
+<img width="1917" height="621" alt="Screenshot 2026-08-20 at 12 28 02 AM" src="https://github.com/user-attachments/assets/ceb8b93b-28ae-4850-817f-8622fda1da2b" />
+
+<img width="1573" height="668" alt="Screenshot 2026-08-20 at 12 28 25 AM" src="https://github.com/user-attachments/assets/2117b374-1e3e-4eb1-83c5-75560b2ece34" />
+
+<img width="1582" height="890" alt="Screenshot 2026-08-20 at 12 28 41 AM" src="https://github.com/user-attachments/assets/b048477d-1875-4d25-9a20-58bd5976a2c9" />
+
+<img width="1589" height="888" alt="Screenshot 2026-08-20 at 12 29 02 AM" src="https://github.com/user-attachments/assets/201aaed2-0df6-471e-98d5-aeb94c8347f6" />
+
+
 
 
 
